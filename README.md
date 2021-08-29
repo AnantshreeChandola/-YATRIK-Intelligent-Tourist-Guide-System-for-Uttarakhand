@@ -1,2 +1,7 @@
 # -YATRIK-Intelligent-Tourist-Guide-System-for-Uttarakhand
 Content-filtering based Tourist Guide Application for Uttarakhand.
+1- Collection of data about Tourist places in Uttarakhand, to create an excel about 172 places(mostly unexplored) with scores based on different aspects of travelling.
+1- Data Modelling on the dataset using python and data science libraries(Numpy, Pandas, Matplotlib.pyplot, json).
+2- Division of places among clusters based on scores, by making use of Machine learning(K-Means Algorithm, sklearn.cluster, sklearn.decomposition)
+3- Defined similarities among all the places by using Cosine-Similarity model(Content-Based Filtering).
+4- Created a simple GUI for the model by using python (Tkinter) to give recommendations to the user.
