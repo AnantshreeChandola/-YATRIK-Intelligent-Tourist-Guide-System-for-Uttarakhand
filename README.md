@@ -1,7 +1,7 @@
 # -YATRIK-Intelligent-Tourist-Guide-System-for-Uttarakhand
 Recommender System for travel in Uttarakhand.
 
-1- Collection of data about Tourist places in Uttarakhand, to create an excel about 172 places(mostly unexplored) with scores based on different aspects of travelling.
+1- Collection of data about Tourist places in Uttarakhand, to create an excel containing about 172 places(mostly unexplored) with scores based on different aspects of travelling.
 
 2- Data Modelling on the dataset using python and data science libraries(Numpy, Pandas, Matplotlib.pyplot, json).
 
