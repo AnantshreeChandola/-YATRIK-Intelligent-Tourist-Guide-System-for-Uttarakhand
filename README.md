@@ -5,7 +5,7 @@ Recommender System for travel in Uttarakhand.
 
 2- Data Modelling on the dataset using python and data science libraries(Numpy, Pandas, Matplotlib.pyplot, json).
 
-3- Division of places among clusters based on scores, by making use of Machine learning(K-Means Algorithm, sklearn.cluster, sklearn.decomposition)
+3- Division of places among clusters based on scores, by making use of Machine learning(Optimized K-Means Algorithm using elbow method, sklearn.cluster, sklearn.decomposition)
 
 4- Defined similarities among all the places by using Cosine-Similarity model(Content-Based Filtering) to give recommendations based on previous visits.
 
